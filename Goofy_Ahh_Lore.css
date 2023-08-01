@@ -1,0 +1,16 @@
+body {
+      background-color: skyblue;
+}
+h1 {
+      font-size: 70px;
+}
+p {
+      font-size: 17px;
+      font-style: italic;
+      color: darkblue;
+      font-family: serif;
+}
+#sizeChart {
+      width: 900px;
+      
+}
